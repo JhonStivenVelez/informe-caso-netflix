@@ -22,5 +22,6 @@
 
 * McAlone, N. \(2015\). The father of 'disruption' theory explains why Netflix is the perfect example — and Uber isn't. Recuperado de http:\/\/www.businessinsider.com\/the-father-of-disruption-theory-explains-why-netflix-is-the-perfect-example-and-uber-isnt-2015-11
 
-* 
+* Lev-Ram, M. \(2016\). Here's Why Netflix Is Driving Hollywood Crazy. Recuperado de http:\/\/fortune.com\/2016\/06\/13\/netflix-disrupts-hollywood\/
+
 
