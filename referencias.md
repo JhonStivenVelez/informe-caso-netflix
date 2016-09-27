@@ -18,4 +18,6 @@
 
 * Ostrower, D. \(2011\). Netflix Instant Video Streaming: A Disruptive Innovation That’s Disrupting Netflix. Recuperado de http:\/\/www.altitudeinc.com\/netflix-a-disruptive-innovation-thats-disrupting-netflix\/
 
+* Mui, C. \(2011\). How Netflix Innovates and Wins. Recuperado de http:\/\/www.forbes.com\/sites\/chunkamui\/2011\/03\/17\/how-netflix-innovates-and-wins\/\#8f63c6ab69a9
+* 
 
