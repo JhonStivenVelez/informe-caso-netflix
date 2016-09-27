@@ -16,5 +16,6 @@
 
 * Kline, D. \(2016\). Here's a Look at Netflix's Plans for 2016. Recuperado de http:\/\/www.fool.com\/investing\/general\/2016\/03\/05\/heres-a-look-at-netflixs-plans-for-2016.aspx
 
-* 
+* Ostrower, D. \(2011\). Netflix Instant Video Streaming: A Disruptive Innovation That’s Disrupting Netflix. Recuperado de http:\/\/www.altitudeinc.com\/netflix-a-disruptive-innovation-thats-disrupting-netflix\/
+
 
